@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>KmlFile</name>
+	<Style id="sn_B">
+		<IconStyle>
+			<Icon>
+				<href>https://lananhvu98nb.github.io/download.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark id= "VH">
+		<name>Nhà Sách Vạn Hoa</name>
+		<description><![CDATA[<img style="max-width:250px;" src="https://lananhvu98nb.github.io/foody-nha-sach-van-hoa-237874-368-635993590236472555.jpg">
+		246 Cổ Nhuế, Bắc Từ Liêm, Hà Nội]]></description>
+		<styleUrl>#sn_B</styleUrl>
+		<Point>
+			<coordinates>105.7795469963816,21.06469532814808,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id = "HT">
+		<name>Nhà Sách HT</name>
+		<description><![CDATA[<img style="max-width:250px;" src="https://lananhvu98nb.github.io/Logo_Truong_Dai_hoc_Mo_-_Dia_chat.jpg">
+		521, Cổ Nhuế, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Thành Phố Hà Nội, Cổ Nhuế, Hà Nội]]></description>
+		<styleUrl>#sn_B</styleUrl>
+		<Point>
+			<coordinates>105.7779272480041,21.06968779656226,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id ="CN">
+		<name>Nhà Sách Cổ Nhuế</name>
+		<description><![CDATA[<img style="max-width:250px;" src="https://lananhvu98nb.github.io/cổ nhuế.jpeg">
+		60 Tăng Thiết Giáp, Cổ Nhuế, Bắc Từ Liêm, Hà Nội]]></description>
+		<styleUrl>#sn_B</styleUrl>
+		<Point>
+			<coordinates>105.7804950893945,21.0572827908599,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id = "QV">
+		<name>Nhà Sách Quảng Văn</name>
+		<description><![CDATA[<img style="max-width:250px;" src="https://lananhvu98nb.github.io/Logo_Truong_Dai_hoc_Mo_-_Dia_chat.jpg">
+		ngõ 150 Hoàng Công Chất, Cầu Diễn, Bắc Từ Liêm, Hà Nội]]></description>
+		<styleUrl>#sn_B</styleUrl>
+		<Point>
+			<coordinates>105.7659181893011,21.04344323249603,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id = "PC">
+		<name>Nhà Sách Pinocchio</name>
+		<description><![CDATA[<img style="max-width:250px;" src="https://lananhvu98nb.github.io/foody-nha-sach-van-hoa-237874-368-635993590236472555.jpg">
+		Chung cư, Shophouse 07, tòa a6, Cổ Nhuế 1, Từ Liêm, Hà Nội]]></description>
+		<styleUrl>#sn_B</styleUrl>
+		<Point>
+			<coordinates>105.775355,21.062195,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -5,13 +5,13 @@
 	<Style id="sn_B">
 		<IconStyle>
 			<Icon>
-				<href>https://lananhvu98nb.github.io/download.png</href>
+				<href>https://thangdoan0604.github.io/download.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
 	<Placemark id= "VH">
 		<name>Nhà Sách Vạn Hoa</name>
-		<description><![CDATA[<img style="max-width:250px;" src="https://lananhvu98nb.github.io/foody-nha-sach-van-hoa-237874-368-635993590236472555.jpg">
+		<description><![CDATA[<img style="max-width:200px;" src="https://thangdoan0604.github.io/foody-nha-sach-van-hoa-237874-368-635993590236472555.jpg">
 		246 Cổ Nhuế, Bắc Từ Liêm, Hà Nội]]></description>
 		<styleUrl>#sn_B</styleUrl>
 		<Point>
@@ -20,7 +20,7 @@
 	</Placemark>
 	<Placemark id = "HT">
 		<name>Nhà Sách HT</name>
-		<description><![CDATA[<img style="max-width:250px;" src="https://lananhvu98nb.github.io/Logo_Truong_Dai_hoc_Mo_-_Dia_chat.jpg">
+		<description><![CDATA[<img style="max-width:200px;" src="https://thangdoan0604.github.io/Logo_Truong_Dai_hoc_Mo_-_Dia_chat.jpg">
 		521, Cổ Nhuế, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Thành Phố Hà Nội, Cổ Nhuế, Hà Nội]]></description>
 		<styleUrl>#sn_B</styleUrl>
 		<Point>
@@ -29,7 +29,7 @@
 	</Placemark>
 	<Placemark id ="CN">
 		<name>Nhà Sách Cổ Nhuế</name>
-		<description><![CDATA[<img style="max-width:250px;" src="https://lananhvu98nb.github.io/cổ nhuế.jpeg">
+		<description><![CDATA[<img style="max-width:200px;" src="https://thangdoan0604.github.io/cổ nhuế.jpeg">
 		60 Tăng Thiết Giáp, Cổ Nhuế, Bắc Từ Liêm, Hà Nội]]></description>
 		<styleUrl>#sn_B</styleUrl>
 		<Point>
@@ -38,7 +38,7 @@
 	</Placemark>
 	<Placemark id = "QV">
 		<name>Nhà Sách Quảng Văn</name>
-		<description><![CDATA[<img style="max-width:250px;" src="https://lananhvu98nb.github.io/Logo_Truong_Dai_hoc_Mo_-_Dia_chat.jpg">
+		<description><![CDATA[<img style="max-width:200px;" src="https://thangdoan0604.github.io/Logo_Truong_Dai_hoc_Mo_-_Dia_chat.jpg">
 		ngõ 150 Hoàng Công Chất, Cầu Diễn, Bắc Từ Liêm, Hà Nội]]></description>
 		<styleUrl>#sn_B</styleUrl>
 		<Point>
